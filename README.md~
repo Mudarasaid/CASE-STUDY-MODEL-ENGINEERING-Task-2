@@ -1,0 +1,11 @@
+2.1 File Name:
+• zip-folder: use_case_2.zip
+• sickness_table.csv: daily information on sickness counts, emergency calls, available standby resources and how many additional resources are activated
+2.2 Column Description:
+• date: entry date
+• n_sick: number of drivers called sick on duty
+• calls: number of emergency calls
+• n_duty: number of drivers on duty available
+• n_sby: number of standby resources available
+• sby_need: number of standbys, which are activated on a given day
+• dafted: number of additional drivers needed due to not enough standbys
